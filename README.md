@@ -1,2 +1,2 @@
-# RMT
+# Messenger
 Secure Messenger
